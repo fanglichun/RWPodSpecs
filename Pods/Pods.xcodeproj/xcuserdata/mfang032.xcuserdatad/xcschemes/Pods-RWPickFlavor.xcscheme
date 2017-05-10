@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AB83E3DB6957AD3A1B5AE92A30C5BAA8"
+               BlueprintIdentifier = "8EE99B40AC18BB8CF55CF981FCB739D7"
                BuildableName = "Pods_RWPickFlavor.framework"
                BlueprintName = "Pods-RWPickFlavor"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AB83E3DB6957AD3A1B5AE92A30C5BAA8"
+            BlueprintIdentifier = "8EE99B40AC18BB8CF55CF981FCB739D7"
             BuildableName = "Pods_RWPickFlavor.framework"
             BlueprintName = "Pods-RWPickFlavor"
             ReferencedContainer = "container:Pods.xcodeproj">

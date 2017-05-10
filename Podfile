@@ -8,6 +8,7 @@ target 'RWPickFlavor' do
   # Pods for RWPickFlavor
   pod 'Alamofire'
   pod 'MBProgressHUD'
+  pod 'BetterBaseClasses'
   target 'RWPickFlavorTests' do
     inherit! :search_paths
     # Pods for testing
